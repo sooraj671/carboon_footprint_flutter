@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="buttonColor" >#00AB4F</color>
+    <color name="borderColor" >#3C3A3A</color>
+    <color name="unselectedBtnColor" >#35F68E</color>
+</resources>
