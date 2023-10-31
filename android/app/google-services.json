@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:329446833555:android:386c4d444c09e513cb3c66",
+        "mobilesdk_app_id": "1:329446833555:android:e11b88239d718d29cb3c66",
         "android_client_info": {
-          "package_name": "com.carbon.footprint"
+          "package_name": "com.rameezcarbon.chaudharyfootprint"
         }
       },
       "oauth_client": [
@@ -35,7 +35,7 @@
               "client_id": "329446833555-1gcbasnmcakdqomafcsosenn0h166ef3.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.carbon.footprint"
+                "bundle_id": "com.example.footprint"
               }
             }
           ]
