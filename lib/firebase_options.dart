@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
     projectId: 'no-carbon-15db2',
     storageBucket: 'no-carbon-15db2.appspot.com',
     iosClientId: '329446833555-1gcbasnmcakdqomafcsosenn0h166ef3.apps.googleusercontent.com',
-    iosBundleId: 'com.example.footprint',
+    iosBundleId: 'com.carbon.footprint',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
@@ -78,6 +78,6 @@ class DefaultFirebaseOptions {
     projectId: 'no-carbon-15db2',
     storageBucket: 'no-carbon-15db2.appspot.com',
     iosClientId: '329446833555-tk1utldprckdtdt0elblhgni23c71kn9.apps.googleusercontent.com',
-    iosBundleId: 'com.example.footprint.RunnerTests',
+    iosBundleId: 'com.carbon.footprint.RunnerTests',
   );
 }

@@ -1,15 +1,16 @@
 {
   "project_info": {
     "project_number": "329446833555",
+    "firebase_url": "https://no-carbon-15db2-default-rtdb.firebaseio.com",
     "project_id": "no-carbon-15db2",
     "storage_bucket": "no-carbon-15db2.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:329446833555:android:b467a49fbec8ecfecb3c66",
+        "mobilesdk_app_id": "1:329446833555:android:386c4d444c09e513cb3c66",
         "android_client_info": {
-          "package_name": "com.example.footprint"
+          "package_name": "com.carbon.footprint"
         }
       },
       "oauth_client": [
@@ -34,7 +35,7 @@
               "client_id": "329446833555-1gcbasnmcakdqomafcsosenn0h166ef3.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.footprint"
+                "bundle_id": "com.carbon.footprint"
               }
             }
           ]
